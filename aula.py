@@ -1,6 +1,6 @@
 # projeto 1
 
 nome = input("Digite seu nome: ")
-print(f"Seu nome é {nome} ...\nbom dia")
+print(f"Seu nome é {nome}...\n   Bom dia!")
 
 
