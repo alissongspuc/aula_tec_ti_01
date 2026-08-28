@@ -9,4 +9,4 @@ for j in range(val):
         print("_", end="")
     print('')
 print("")
-print("Quadrado")
+print("Quadrado - 4")
