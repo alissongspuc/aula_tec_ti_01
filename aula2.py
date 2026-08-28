@@ -10,3 +10,4 @@ for j in range(val):
     print('')
 print("")
 print("Quadrado - OK")
+print("Quadrado - 4")
